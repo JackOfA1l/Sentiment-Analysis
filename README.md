@@ -20,12 +20,3 @@ This is a simple **Mood Analyzer** web app that uses sentiment analysis to detec
 - **Sentiment Analysis**: Uses the power of **TextBlob** to classify sentiments.
 
 ---
-
-## 🚀 How to Run the App
-
-Follow these simple steps to get the app up and running:
-
-### 1. Clone the Repository
-Clone this repository to your local machine using the following command:
-```bash
-git clone https://github.com/your-username/sentiment-analysis-app.git
